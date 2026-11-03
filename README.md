@@ -13,7 +13,7 @@ I've created this GitHub repository to share useful certification topics, study 
 
 **GitHub Repository:** [Claude Certified Developer – Foundations](YOUR_GITHUB_REPOSITORY_URL)
 
-For additional practice, I recommend [CertsGate CCDV-F](https://certsgate.com/exams/anthropic/ccdv-f), which offers practice questions, downloadable study material, and an interactive practice test engine.
+For practice, I recommend [CertsGate CCDV-F](https://certsgate.com/exams/anthropic/ccdv-f), which offers practice questions, downloadable study material, and an interactive practice test engine.
 
 Explore the resources, build your Claude development knowledge, and take the next step toward your own certification achievement!
 
